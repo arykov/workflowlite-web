@@ -74,13 +74,13 @@ color:#A5AEC5;
 
 .menu {
 height: 41px;
-background-color:#C0C0C0;background-image:url("../images/menubg.png");background-repeat:repeat;border-width:0px;border-style:solid;border-color:#999999;-moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;
+background-color:#C0C0C0;background-repeat:repeat;border-width:0px;border-style:solid;border-color:#999999;-moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;
 }
 
 
 
 ul#css3menu,ul#css3menu ul{
-margin:0;list-style:none;background-color:#C0C0C0;background-image:url("../images/mainbk.png");background-repeat:repeat;border-width:0px;border-style:solid;border-color:#999999;-moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;}
+margin:0;list-style:none;background-color:#C0C0C0;background-repeat:repeat;border-width:0px;border-style:solid;border-color:#999999;-moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;}
 ul#css3menu ul{
 display:none;position:absolute;left:0;top:100%;-moz-box-shadow:0.7px 0.7px 1px #777777;-webkit-box-shadow:0.7px 0.7px 1px #777777;box-shadow:0.7px 0.7px 1px #777777;padding:0 9px 9px;background-color:#FFF;background-image:none;border-width:1px;border-radius:4px;-moz-border-radius:4px;-webkit-border-radius:4px;border-style:solid;border-color:#d8d9da;}
 ul#css3menu li:hover>*{
@@ -100,13 +100,13 @@ margin:1px 0 0;}
 ul#css3menu a:active, ul#css3menu a:focus{
 outline-style:none;}
 ul#css3menu a{
-display:block;vertical-align:middle;text-align:left;text-decoration:none;font:bold 12px Arial,sans-serif;color:#262626;cursor:default;padding:10px;background-color:#C0C0C0;background-image:url("../images/mainbk.png");background-repeat:repeat;background-position:0 200px;border-width:0px;border-style:none;border-color:;}
+display:block;vertical-align:middle;text-align:left;text-decoration:none;font:bold 12px Arial,sans-serif;color:#262626;cursor:default;padding:10px;background-color:#C0C0C0;background-repeat:repeat;background-position:0 200px;border-width:0px;border-style:none;border-color:;}
 ul#css3menu ul li{
 float:none;margin:9px 0 0;}
 ul#css3menu ul a{
 text-align:left;padding:8px 0 0 0;background-color:#FFF;background-image:none;border-width:1px 0 0 0;border-style:solid;border-color:#D9D9D9;border-radius:0px;-moz-border-radius:0px;-webkit-border-radius:0px;font:13px Arial,sans-serif;color:#333333;text-decoration:none;}
 ul#css3menu li:hover>a{
-background-color:#C0C0C0;border-style:none;font:bold 12px Arial,sans-serif;color:#efefef;text-decoration:none;background-image:url("../images/mainbk.png");background-position:0 100px;}
+background-color:#C0C0C0;border-style:none;font:bold 12px Arial,sans-serif;color:#efefef;text-decoration:none	;background-position:0 100px;}
 ul#css3menu img{
 border:none;vertical-align:middle;margin-right:10px;}
 ul#css3menu img.over{
