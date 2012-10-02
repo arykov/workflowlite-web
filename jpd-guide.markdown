@@ -8,10 +8,6 @@ title: JPD Migration Gude
 This document is a guide for developers needing to migrate WLI workflows
 to the new WorkFlow.
 
-To get you started with migration we created an upgrade tool. Simply run 
-java -jar wflite-tools.jar -src <location of your original WLI app> -dst 
-<destination for the new application>
-
 WLI represents workflows in files with a `.jpd` extension, which we
 refer to as *JPD*s. A JPD is essentially a Java file, with some extra Javadoc
 tags that define the process shape. The WorkFlow Lite is able to execute these
@@ -51,7 +47,7 @@ file. Instead, there is an Ant task to extract the XML
 from a JPD file into an appropriately named XML file. Extract the XML
 from the JPD from the root of the java module as follows:
 
-    ant extract-jpd-xml -Djpd=path/to/SomeProcess_20050101.jpd
+   `java -jar wflite-tools.jar -src <location of your original WLI app> -dst <destination for the new application>`
 
 In this case, the XML would be extracted to a file called
 `path/to/SomeProcessImpl.xml`. This will match the name of the process
