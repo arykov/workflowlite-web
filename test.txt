@@ -1,0 +1,21 @@
+------START-LICENSE-KEY------
+
+Registration_Name=arykov @ iname.com
+
+Company=-
+
+Category=Enterprise
+
+Component=XML-Editor, XSLT-Debugger, Saxon-SA
+
+Version=15
+
+Number_of_Licenses=1
+
+Date=01-01-2014
+
+Trial=31
+
+SGN=MCwCFCPa7QJaATiiP+MRMhjwVuDuK6i/AhRUgqArQJ+E6drKonlZ16WmnhGCbQ\=\=
+
+-------END-LICENSE-KEY-------
