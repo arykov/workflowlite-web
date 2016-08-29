@@ -3,7 +3,7 @@ layout: page
 title: Services
 is_page: true
 ---
-#Who we are
+##Who we are
 
 We are a consulting company, formed in 2002, with offices in Ottawa and Toronto specialized with experties in following areas:
 
